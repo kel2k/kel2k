@@ -9,7 +9,8 @@ Hello, I'm Kel, a web developer with below-average skills.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?style=for-the-badge&logoColor=white&color=blue) <!-- Adjust the style as needed -->
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?style=for-the-badge&logoColor=white&color=blue) <!-- Adjust the style as needed, and add custom width and height -->
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kel2k&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
